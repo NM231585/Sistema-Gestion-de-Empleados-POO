@@ -11,7 +11,7 @@ Este es un programa de consola echo en C# para una clase de Programación Orient
 </ul>
 
 ## Diagrama UML
-Enlace: `http`
+Enlace: [@octokatherine](https://www.github.com/octokatherine)
 
 ## Funcionamiento
 
