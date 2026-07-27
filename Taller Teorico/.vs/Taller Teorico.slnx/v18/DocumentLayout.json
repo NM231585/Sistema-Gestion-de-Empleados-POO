@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\empleadonoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\empleadonoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:empleadonoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "EmpleadoNoEncontradoException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:54:46.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T22:54:46.676Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Empleado.cs",
               "ToolTip": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\Empleado.cs",
               "RelativeToolTip": "Empleado.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-27T22:54:27.422Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:17:15.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-27T22:17:15.162Z"
             }
           ]
         }

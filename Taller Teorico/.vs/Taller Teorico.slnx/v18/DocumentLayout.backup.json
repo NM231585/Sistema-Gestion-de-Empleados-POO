@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\empleadonoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:empleadonoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\empleadoporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:empleadoporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\empleadocomisionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:empleadocomisionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|c:\\users\\mycat\\onedrive\\escritorio\\taller poo teorico\\taller teorico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547B1751-DA47-43B8-B993-7A6B077C944B}|Taller Teorico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -40,57 +32,27 @@
               "RelativeDocumentMoniker": "EmpleadoNoEncontradoException.cs",
               "ToolTip": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\EmpleadoNoEncontradoException.cs",
               "RelativeToolTip": "EmpleadoNoEncontradoException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-27T22:54:46.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmpleadoComisionista.cs",
-              "DocumentMoniker": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\EmpleadoComisionista.cs",
-              "RelativeDocumentMoniker": "EmpleadoComisionista.cs",
-              "ToolTip": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\EmpleadoComisionista.cs",
-              "RelativeToolTip": "EmpleadoComisionista.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:54:43.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmpleadoPorHora.cs",
-              "DocumentMoniker": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\EmpleadoPorHora.cs",
-              "RelativeDocumentMoniker": "EmpleadoPorHora.cs",
-              "ToolTip": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\EmpleadoPorHora.cs",
-              "RelativeToolTip": "EmpleadoPorHora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T22:54:32.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\Empleado.cs",
               "RelativeDocumentMoniker": "Empleado.cs",
               "ToolTip": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\Empleado.cs",
               "RelativeToolTip": "Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-27T22:54:27.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mycat\\OneDrive\\Escritorio\\Taller POO Teorico\\Taller Teorico\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
