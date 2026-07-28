@@ -7,7 +7,7 @@ Este es un programa de consola desarrollado en **C#** para la materia de **Progr
 ## 👥 Integrantes
 
 <ul>
-  <li><b>Christian, Emmanuel</b> - EF261246</li>
+  <li><b>Escoto Flórez, Christian Emmanuel</b> - EF261246</li>
   <li><b>Hernández Guillén, Fátima Saraí</b> - HG260539</li>
   <li><b>López Marroquín, Ana Elizabeth</b> - LM260681</li>
   <li><b>Noyola Moz, Michael Douglas</b> - NM231585</li>
